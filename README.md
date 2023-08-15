@@ -1,4 +1,4 @@
-# OneUI Sample
+# OneUI Sample Fake
 
 This is a simple project which demonstrates how to utilize OneUI design library on Android.
 
